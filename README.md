@@ -1,6 +1,7 @@
 # Solar Panel Steel Canopy — Structural Engineering Project
 
-<img width="1536" height="1024" alt="Realistic" src="https://github.com/user-attachments/assets/51e65f7f-5d57-4001-8d0b-2b6704c3e453" />
+<img width="1536" height="1024" alt="Realistic" src="https://github.com/user-attachments/assets/6c968624-8113-408b-837a-6369fefc9f54" />
+
 
 ## Project Overview
 
@@ -43,7 +44,7 @@ This project is for portfolio and demonstration purposes only.
 ## Structural System Summary
 
 ### Structural Type
-<img width="785" height="560" alt="0 Solar canopy 3D" src="https://github.com/user-attachments/assets/7f4af619-62a3-49c1-86e2-ea37b7d1746d" />
+<img width="785" height="560" alt="0 Solar canopy 3D" src="https://github.com/user-attachments/assets/d50c1b00-c1a1-47c9-95a1-b456553d57cf" />
 
 
 Single-slope steel solar panel canopy designed for:
@@ -53,28 +54,28 @@ Single-slope steel solar panel canopy designed for:
 * Light industrial use
 
 ### Columns
-<img width="927" height="617" alt="2 Column base connection " src="https://github.com/user-attachments/assets/8f9810bb-2f00-4bf9-9574-85d9bfa045c8" />
+<img width="927" height="617" alt="2 Column base connection " src="https://github.com/user-attachments/assets/d8634793-4005-4cbd-864d-92abcac8418f" />
 
 * Steel columns supporting roof beams
 * Fixed at base to reinforced concrete foundations
 * Designed for wind and gravity loads
 
 ### Beams
-<img width="683" height="632" alt="3 Beam to column connection" src="https://github.com/user-attachments/assets/483c20db-c8ea-49ed-9009-c5521ddcdf70" />
+<img width="683" height="632" alt="3 Beam to column connection" src="https://github.com/user-attachments/assets/12230ea6-46f6-4674-b829-19cffd33a0d8" />
 
 * Primary steel beams spanning between columns
 * Support solar panel framing and purlins
 * Designed for bending and deflection control
 
 ### Purlins
-<img width="665" height="617" alt="4 Purlin connection" src="https://github.com/user-attachments/assets/a39baa25-194b-4fd7-bc0a-1c85392a7d30" />
+<img width="665" height="617" alt="4 Purlin connection" src="https://github.com/user-attachments/assets/75346a07-6af6-4e4d-bdca-0401698882f5" />
 
 * Secondary steel members
 * Support solar panel loads
 * Transfer load to primary beams
 
 ### Bracing System
-<img width="948" height="630" alt="1 Brace connection" src="https://github.com/user-attachments/assets/4f5a7cd0-dab4-4770-842d-6581f2a2c6c9" />
+<img width="948" height="630" alt="1 Brace connection" src="https://github.com/user-attachments/assets/76ef6941-8740-4693-bcd2-5a91e1533c70" />
 
 * Steel cross bracing for lateral stability
 * Wind load resistance
@@ -93,16 +94,16 @@ Single-slope steel solar panel canopy designed for:
 Analysis performed using:
 
 * Dead load (steel + solar panels)
-  <img width="1852" height="813" alt="ULS load cases displacement" src="https://github.com/user-attachments/assets/c15d8bad-a9f8-432d-a9ad-e33d11e41fa6" />
+ <img width="1852" height="813" alt="ULS load cases displacement" src="https://github.com/user-attachments/assets/69240105-3a9e-4a40-812c-6c7afe65cfcc" />
 
 * Live load (maintenance load)
-  <img width="1843" height="805" alt="Solar panel moment diagrams" src="https://github.com/user-attachments/assets/215088c5-ff12-45c3-a2e4-1fa3cd09b4a9" />
+  <img width="1843" height="805" alt="Solar panel moment diagrams" src="https://github.com/user-attachments/assets/3626ff7a-9673-48d7-b870-755c4258ad62" />
 
 * Wind load
-  <img width="1852" height="807" alt="Wind 20ms Y plus" src="https://github.com/user-attachments/assets/56369a71-d82c-4e7a-bdc2-63fb011dea37" />
+ <img width="1858" height="811" alt="Wind 20ms x and y minus  - Copy" src="https://github.com/user-attachments/assets/ca6f1c63-53b5-41a6-ba17-07ef41963654" />
 
 * Load combinations (ASCE-based)
-<img width="1852" height="812" alt="Wind load bending moment diagrams" src="https://github.com/user-attachments/assets/420c02d9-edb4-43ac-aca6-587b80f23af3" />
+<img width="1852" height="812" alt="Wind load bending moment diagrams" src="https://github.com/user-attachments/assets/ac7f6beb-07f1-4d29-b1a1-1862b7efe0ca" />
 
 Results obtained:
 
