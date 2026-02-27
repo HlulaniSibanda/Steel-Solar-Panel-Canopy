@@ -7,7 +7,7 @@
 
 This project presents the complete structural design, BIM modelling, and structural analysis of a steel solar panel canopy intended for parking and outdoor shading applications.
 
-The objective of this project is to demonstrate professional structural engineering capability for international freelance work, particularly US-based steel, solar, and light commercial structural projects.
+The objective of this project is to demonstrate professional structural engineering capability for US-based steel, solar, and light commercial structural projects.
 
 The model includes:
 
